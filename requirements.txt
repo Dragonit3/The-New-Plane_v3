@@ -1,5 +1,5 @@
 python-nmap
 flask
-witress
+waitress
 bs4
 requests
