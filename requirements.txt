@@ -1,3 +1,5 @@
 python-nmap
 flask
 witress
+bs4
+requests
