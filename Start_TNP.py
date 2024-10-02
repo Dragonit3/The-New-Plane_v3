@@ -50,7 +50,7 @@ def stop_attack():
     return TNP.stopcode()
 
 def main():
-    ip, port = "0.0.0.0", 1109
+    ip, port = "127.0.0.1", 1109
     
     print(f"""
           {logo}
