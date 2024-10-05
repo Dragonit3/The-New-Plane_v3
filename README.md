@@ -12,7 +12,7 @@
 https://github.com/Dragonit3/The-New-Plane_v3.git
 ```
 
-<h1>Installing Dependencies</h1>
+<h1>Installing Dependencies:</h1>
 
 ```
 pip install -r requirements.txt
