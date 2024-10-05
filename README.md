@@ -7,6 +7,13 @@
 ![image](https://github.com/user-attachments/assets/e7b78233-14ef-4f31-aaa7-5bc4cc9d6e91)
 
 <h1>How Install:</h1>
+
 ```
 https://github.com/Dragonit3/The-New-Plane_v3.git
+```
+
+<h1>Installing Dependencies</h1>
+
+```
+pip install -r requirements.txt
 ```
