@@ -24,3 +24,8 @@ pip install -r requirements.txt
 ```
 python3 Start_TNP.py
 ```
+
+<br>
+<h1>How Change the theme:</h1>
+
+Inside of the folder "templates" have two HTML files, go to 5th line of each file and change the "DefaultStyle.css" to "HackerStyle.css" or vice versa
