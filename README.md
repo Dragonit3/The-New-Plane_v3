@@ -17,3 +17,10 @@ https://github.com/Dragonit3/The-New-Plane_v3.git
 ```
 pip install -r requirements.txt
 ```
+
+<br>
+<h1>Starting the Web Interface:</h1>
+
+```
+python3 Start_TNP.py
+```
